@@ -1,4 +1,5 @@
-
+a:link{color:red;}
+a:visited{color:red;}
 #app[data-v-bd26cd6c] {
     font-family: 'Avenir', Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
